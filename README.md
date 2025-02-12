@@ -1,2 +1,2 @@
 # Movie-ticket-booking-system
-movie ticket booking system using php , mysql and frontend
+Developed a Movie Ticket Booking System that allows users to browse movies, select showtimes, choose seats, and make online bookings. The system includes real-time seat availability tracking, user authentication, and a secure payment gateway. The backend is powered by PHP and MySQL, ensuring efficient data management, while the frontend is built using HTML, CSS, and JavaScript for a seamless user experience.
